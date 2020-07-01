@@ -36,7 +36,7 @@ x = {
 }
 
 interfaces_text = str(x)
-print("Interfaces es ", type(interfaces_text))
+print("Interfaces es ", type(x))
 #print(interfaces)
 print(interfaces_text)
 print("/n") 
